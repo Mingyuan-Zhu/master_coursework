@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="poutcome_success <= 0.5\ngini = 0.333\nsamples = 5696\nvalue = [4494, 1202]"] ;
+1 [label="age <= 60.5\ngini = 0.3\nsamples = 5445\nvalue = [4444, 1001]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="contact_unknown <= 0.5\ngini = 0.286\nsamples = 5299\nvalue = [4382, 917]"] ;
+1 -> 2 ;
+3 [label="gini = 0.326\nsamples = 3795\nvalue = [3018, 777]"] ;
+2 -> 3 ;
+4 [label="gini = 0.169\nsamples = 1504\nvalue = [1364, 140]"] ;
+2 -> 4 ;
+5 [label="day <= 14.5\ngini = 0.489\nsamples = 146\nvalue = [62, 84]"] ;
+1 -> 5 ;
+6 [label="gini = 0.496\nsamples = 81\nvalue = [44, 37]"] ;
+5 -> 6 ;
+7 [label="gini = 0.4\nsamples = 65\nvalue = [18, 47]"] ;
+5 -> 7 ;
+8 [label="housing_bool <= 0.5\ngini = 0.319\nsamples = 251\nvalue = [50, 201]"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="day <= 2.5\ngini = 0.249\nsamples = 178\nvalue = [26, 152]"] ;
+8 -> 9 ;
+10 [label="gini = 0.463\nsamples = 11\nvalue = [4, 7]"] ;
+9 -> 10 ;
+11 [label="gini = 0.229\nsamples = 167\nvalue = [22, 145]"] ;
+9 -> 11 ;
+12 [label="balance <= 1102.5\ngini = 0.441\nsamples = 73\nvalue = [24, 49]"] ;
+8 -> 12 ;
+13 [label="gini = 0.331\nsamples = 43\nvalue = [9, 34]"] ;
+12 -> 13 ;
+14 [label="gini = 0.5\nsamples = 30\nvalue = [15, 15]"] ;
+12 -> 14 ;
+}

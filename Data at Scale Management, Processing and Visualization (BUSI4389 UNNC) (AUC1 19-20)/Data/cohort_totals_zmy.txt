@@ -1,0 +1,54 @@
+2010-12-01	2	EIRE
+2010-12-01	5	France
+2010-12-01	12	Germany
+2010-12-01	20	others
+2010-12-01	424	United Kingdom
+2011-01-01	6	France
+2011-01-01	7	Germany
+2011-01-01	11	others
+2011-01-01	247	United Kingdom
+2011-02-01	1	EIRE
+2011-02-01	11	France
+2011-02-01	6	Germany
+2011-02-01	16	others
+2011-02-01	208	United Kingdom
+2011-03-01	5	France
+2011-03-01	2	Germany
+2011-03-01	19	others
+2011-03-01	286	United Kingdom
+2011-04-01	4	France
+2011-04-01	5	Germany
+2011-04-01	12	others
+2011-04-01	209	United Kingdom
+2011-05-01	7	France
+2011-05-01	5	Germany
+2011-05-01	8	others
+2011-05-01	192	United Kingdom
+2011-06-01	4	France
+2011-06-01	4	Germany
+2011-06-01	19	others
+2011-06-01	171	United Kingdom
+2011-07-01	1	France
+2011-07-01	6	Germany
+2011-07-01	10	others
+2011-07-01	142	United Kingdom
+2011-08-01	4	France
+2011-08-01	3	Germany
+2011-08-01	9	others
+2011-08-01	106	United Kingdom
+2011-09-01	7	France
+2011-09-01	4	Germany
+2011-09-01	10	others
+2011-09-01	213	United Kingdom
+2011-10-01	4	France
+2011-10-01	10	Germany
+2011-10-01	17	others
+2011-10-01	257	United Kingdom
+2011-11-01	3	France
+2011-11-01	5	Germany
+2011-11-01	11	others
+2011-11-01	278	United Kingdom
+2011-12-01	2	France
+2011-12-01	1	Germany
+2011-12-01	2	others
+2011-12-01	42	United Kingdom

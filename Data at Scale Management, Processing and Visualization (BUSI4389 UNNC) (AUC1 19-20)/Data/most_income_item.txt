@@ -1,0 +1,50 @@
+
+22328	Israel
+21749	Norway
+21485	United Kingdom
+22328	Belgium
+85099B	Portugal
+85099B	Netherlands
+22423	Iceland
+22423	Netherlands
+21749	Belgium
+21485	EIRE
+21137	Germany
+22086	Spain
+85123A	Singapore
+85099B	Spain
+22423	Germany
+21749	United Kingdom
+22423	France
+22423	Cyprus
+47566	Cyprus
+22328	United Kingdom
+85099B	Germany
+85123A	Channel Islands
+85099B	France
+22086	Germany
+23084	United Kingdom
+21749	EIRE
+22423	Channel Islands
+21137	United Kingdom
+22423	Belgium
+21137	Australia
+23084	Netherlands
+23084	Portugal
+23084	Germany
+22423	EIRE
+23084	France
+85123A	EIRE
+22086	United Kingdom
+47566	United Kingdom
+85099B	United Kingdom
+22328	Germany
+21749	Germany
+22328	Japan
+21749	France
+22423	United Kingdom
+85123A	Italy
+85123A	United Kingdom
+47566	Australia
+22328	Spain
+47566	EIRE
