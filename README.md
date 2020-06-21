@@ -4,6 +4,8 @@
 
 [IMBA Marketing-analysis:   Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational%20Business%20Analytics%20(BUSI4390%20UNNC)%20(AUC1%2019-20)/FBA-coursework-zhumingyuan.pdf)
 
+
+
 [code](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational%20Business%20Analytics%20(BUSI4390%20UNNC)%20(AUC1%2019-20)/Coursework%20Data-20191128/Zhumingyuan-20219292-FBA_coursework.ipynb)
 
 IMBA enterprise is expanding its operations into the banking sector. Their first goal is to build up capital, 
