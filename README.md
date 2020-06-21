@@ -2,9 +2,9 @@
 
 ###  Foundational Business Analytics 
 
-[IMBA Marketing-analysis:   Paper]([https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational%20Business%20Analytics%20(BUSI4390%20UNNC)%20(AUC1%2019-20)/FBA-coursework-zhumingyuan.pdf](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational Business Analytics (BUSI4390 UNNC) (AUC1 19-20)/FBA-coursework-zhumingyuan.pdf)
+[IMBA Marketing-analysis:   Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational%20Business%20Analytics%20(BUSI4390%20UNNC)%20(AUC1%2019-20)/FBA-coursework-zhumingyuan.pdf](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational Business Analytics (BUSI4390 UNNC) (AUC1 19-20)/FBA-coursework-zhumingyuan.pdf)
 
-[code]([https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational%20Business%20Analytics%20(BUSI4390%20UNNC)%20(AUC1%2019-20)/bank-marketing-analysis.ipynb](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational Business Analytics (BUSI4390 UNNC) (AUC1 19-20)/bank-marketing-analysis.ipynb)
+[code](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational%20Business%20Analytics%20(BUSI4390%20UNNC)%20(AUC1%2019-20)/bank-marketing-analysis.ipynb](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational Business Analytics (BUSI4390 UNNC) (AUC1 19-20)/bank-marketing-analysis.ipynb)
 
 IMBA enterprise is expanding its operations into the banking sector. Their first goal is to build up capital, 
 so IMBA enterprises have come up with a plan: to market a financial product that offers an attractive fixed 
@@ -37,7 +37,7 @@ Customer segmentation
 
 [Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW1/MingyuanZhu-20219292-ASA%20coursework-.pdf)
 
-[Code]([https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW1/ASA-%20%20Coursework.ipynb](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics Specializations and Applications/CW1/ASA-  Coursework.ipynb))
+[Code](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW1/ASA-%20%20Coursework.ipynb）Specializations and Applications/CW1/ASA-  Coursework.ipynb)
 
 To be more profitable, sellers have attached great importance to understand buyer behaviour 
 as a fundamental of marketing. The selling processes for purchasing products in the 
@@ -67,9 +67,9 @@ further profound research like segmented A-B test
 stock market
 ```
 
-[Paper]([https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW-2/20219292-BUSI4392%20UNNC-%20Analytics%20Specializations%20and%20Applications_coursework%202_Mingyuan%20ZHu.ipynb.pdf](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics Specializations and Applications/CW-2/20219292-BUSI4392 UNNC- Analytics Specializations and Applications_coursework 2_Mingyuan ZHu.ipynb.pdf))
+[Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW-2/20219292-BUSI4392%20UNNC-%20Analytics%20Specializations%20and%20Applications_coursework%202_Mingyuan%20ZHu.ipynb.pdf](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics Specializations and Applications/CW-2/20219292-BUSI4392 UNNC- Analytics Specializations and Applications_coursework 2_Mingyuan ZHu.ipynb.pdf)
 
-[Code]( [https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW-2/20219292-BUSI4392%20UNNC-%20Analytics%20Specializations%20and%20Applications_coursework%202_Mingyuan%20ZHu.ipynb](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics Specializations and Applications/CW-2/20219292-BUSI4392 UNNC- Analytics Specializations and Applications_coursework 2_Mingyuan ZHu.ipynb))
+[Code](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW-2/20219292-BUSI4392%20UNNC-%20Analytics%20Specializations%20and%20Applications_coursework%202_Mingyuan%20ZHu.ipynb](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics Specializations and Applications/CW-2/20219292-BUSI4392 UNNC- Analytics Specializations and Applications_coursework 2_Mingyuan ZHu.ipynb)
 
 It is well known that the stock market driven by the psychological and financial factors, as it's a tremendously complex and volatility processing system across the world. With many socioeconomic factors, hidden behaviour and complex models for the stock price, consequently, is hard to predict and evaluate. But such an informationally efficient is also an ethical judgment resource for investors and predictors take those into account and act accordingly with profitable market returns over a long-term, for the stock price tend to reflect all available information fully. 
 
