@@ -4,8 +4,6 @@
 
 [IMBA Marketing-analysis:   Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational%20Business%20Analytics%20(BUSI4390%20UNNC)%20(AUC1%2019-20)/FBA-coursework-zhumingyuan.pdf)
 
-
-
 [code](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Foundational%20Business%20Analytics%20(BUSI4390%20UNNC)%20(AUC1%2019-20)/Coursework%20Data-20191128/Zhumingyuan-20219292-FBA_coursework.ipynb)
 
 IMBA enterprise is expanding its operations into the banking sector. Their first goal is to build up capital, 
@@ -69,9 +67,9 @@ further profound research like segmented A-B test
 stock market
 ```
 
-[Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW-2/20219292-BUSI4392%20UNNC-%20Analytics%20Specializations%20and%20Applications_coursework%202_Mingyuan%20ZHu.ipynb.pdf](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics Specializations and Applications/CW-2/20219292-BUSI4392 UNNC- Analytics Specializations and Applications_coursework 2_Mingyuan ZHu.ipynb.pdf)
+[Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW-2/20219292-BUSI4392%20UNNC-%20Analytics%20Specializations%20and%20Applications_coursework%202_Mingyuan%20ZHu.ipynb.pdf)
 
-[Code](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW-2/20219292-BUSI4392%20UNNC-%20Analytics%20Specializations%20and%20Applications_coursework%202_Mingyuan%20ZHu.ipynb](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics Specializations and Applications/CW-2/20219292-BUSI4392 UNNC- Analytics Specializations and Applications_coursework 2_Mingyuan ZHu.ipynb)
+[Code](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Analytics%20Specializations%20and%20Applications/CW-2/20219292-BUSI4392%20UNNC-%20Analytics%20Specializations%20and%20Applications_coursework%202_Mingyuan%20ZHu.ipynb)
 
 It is well known that the stock market driven by the psychological and financial factors, as it's a tremendously complex and volatility processing system across the world. With many socioeconomic factors, hidden behaviour and complex models for the stock price, consequently, is hard to predict and evaluate. But such an informationally efficient is also an ethical judgment resource for investors and predictors take those into account and act accordingly with profitable market returns over a long-term, for the stock price tend to reflect all available information fully. 
 
@@ -87,7 +85,7 @@ We establish a model-based sentiment-retrained trackers and large-scale Twitter 
 Cohort analysis
 ```
 
-[Paper]([https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Data%20at%20Scale%20Management%2C%20Processing%20and%20Visualization%20(BUSI4389%20UNNC)%20(AUC1%2019-20)/Coursework-D%40S-zhumingyuan_20219292.pdf](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Data at Scale Management%2C Processing and Visualization (BUSI4389 UNNC) (AUC1 19-20)/Coursework-D%40S-zhumingyuan_20219292.pdf))
+[Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Data%20at%20Scale%20Management%2C%20Processing%20and%20Visualization%20(BUSI4389%20UNNC)%20(AUC1%2019-20)/Coursework-D%40S-zhumingyuan_20219292.pdf)
 
 ### Machine Learning and Predictive Analytics
 
@@ -95,8 +93,8 @@ Cohort analysis
 Continuous Risk Evaluation of Loans
 ```
 
-[Paper]([https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Machine%20learning/cw/20219292_Machine%20Learning%20and%20Predictive%20Analytics%20(BUSI4391%20UNNC)-Mingyuan%20Zhu.pdf](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Machine learning/cw/20219292_Machine Learning and Predictive Analytics (BUSI4391 UNNC)-Mingyuan Zhu.pdf)
+[Paper](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Machine%20learning/cw/20219292_Machine%20Learning%20and%20Predictive%20Analytics%20(BUSI4391%20UNNC)-Mingyuan%20Zhu.pdf)
 
-[Code]([https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Machine%20learning/cw/20219292_Machine%20Learning%20and%20Predictive%20Analytics%20(BUSI4391%20UNNC)-Mingyuan%20Zhu.ipynb](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Machine learning/cw/20219292_Machine Learning and Predictive Analytics (BUSI4391 UNNC)-Mingyuan Zhu.ipynb)
+[Code](https://github.com/Mingyuan-Zhu/master_coursework/blob/master/Machine%20learning/cw/20219292_Machine%20Learning%20and%20Predictive%20Analytics%20(BUSI4391%20UNNC)-Mingyuan%20Zhu.ipynb)
 
 LendingClub is a peer to peer lending company based in the United States, which provides the "bridge" between investors and borrowers. Specifically, LendingClub enables borrowers to create [unsecured personal loans](https://en.wikipedia.org/wiki/Unsecured_debt) last for 36 months or 60 months. Investors can search and browse the loan listings on LendingClub website and select loans that they want to invest in based on the information supplied about the borrower, amount of loan, loan grade, loan purpose, etc., and make money from interest. Borrowers are contracted to **pay back** principal and interest **monthly**, but they can also make payment larger than the monthly due amount and terminate the loan period **in advance**. However, not all monthly payments will be made in time and loans will be charged off if they are several months after due (see https://help.lendingclub.com/hc/en-us/articles/216127747 for detail). Therefore, it’s important for LendingClub to evaluate the risk of a loan before it is issued and keep tracking the risk during the process of installment.
